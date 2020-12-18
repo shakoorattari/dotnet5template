@@ -17,7 +17,7 @@ How easy would it be if you are able to run a single line of CLI command on your
 
 ## Give a Star ⭐️
 If you found this Implementation helpful or used it in your Projects, do give it a star. Thanks!
-Or, If you are feeling really generous, [Support the Project with a small contribution!](https://www.buymeacoffee.com/codewithmukesh)
+Or, If you are feeling really generous,
 
 ## Quick Start Guide
 Since the project is still under developement, the CLI features are not yet available. Although you can clone / fork / download the repository and execute it locally on your machine. Here are the steps involed.
@@ -90,8 +90,6 @@ Has this Project helped you learn something New? or Helped you at work? Do Consi
 
 - Leave a star!
 - Recommend this awesome project to your colleages.
-- Do consider endorsing me on LinkedIn for ASP.NET Core - [Connect via LinkedIn](https://www.linkedin.com/in/iammukeshm/)
 - Or, If you want to support this project on the long run, consider buying me a coffee.
 
-<a href="https://www.buymeacoffee.com/codewithmukesh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200"  ></a>
 
